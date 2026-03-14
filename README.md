@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Abonkwe/Abonkwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer scientist interested in **AI**, **Machine Learning**, **Fintech**, and **Blockchain**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, TypeScript
+- **Frameworks & Libraries**: Flask, FastAPI, React Native
+
+## 💼 Connect With Me
+
+- **LinkedIn**: [www.linkedin.com/in/abonkwe-atanga-49607b280](https://www.linkedin.com/in/abonkwe-atanga-49607b280)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects!
